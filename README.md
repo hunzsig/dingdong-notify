@@ -1,2 +1,2 @@
-# h-notify
+# dingdong-notify
 
